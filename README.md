@@ -7,7 +7,7 @@ The task involves creating a mobile application that interacts with a provided A
 
 **API Endpoint:** You will be using the following endpoint for this task: 
 1.	http://api.aladhan.com/v1/calendar/2017/4?latitude=51.508515&longitude=-0.1254872&method=2 
-Sample response: https://aladhan.com/prayer-times-api 
+    Sample response: https://aladhan.com/prayer-times-api 
 2.	https://rapidapi.com/tipsters/api/hotels-com-provider/
 
 **Task Details:**
@@ -32,13 +32,13 @@ Implement the provided UI design with the highest accuracy, ensuring that every 
 
 
 ### Task 3.1: Bluetooth Connectivity
-In this task, you need to make sure proper flow of Bluetooth connectivity. 
+In this task, you need to ensure proper Bluetooth connectivity flow. 
 
 **Platform:** Native Java/Kotlin
 
 **Task Details:**
 
-When developing the Android application, ensure that only necessary permissions for Bluetooth are requested, starting from API level 19 up to the latest API version. AVOID REQUESTING UNNECESSARY PERMISSIONS AND ONLY PROMPT FOR PERMISSION WHEN IT IS REQUIRED. The primary focus should be on maintaining the flow of Bluetooth within the app. Implement scanning, discovery, and pairing functionalities within the app, along with the necessary user interface. The user interface doesn’t need to have an aesthetically pleasing appearance.
+When developing the Android application, ensure that only necessary permissions for Bluetooth are requested, starting from API level 19 up to the latest API version. AVOID REQUESTING UNNECESSARY PERMISSIONS AND ONLY PROMPT FOR PERMISSION WHEN IT IS REQUIRED. The primary focus should be on maintaining the flow of Bluetooth within the app. Implement scanning, discovery, and pairing functionalities within the app and the necessary user interface. The user interface doesn’t need to have an aesthetically pleasing appearance.
 
 ### Task 3.2: Flutter Channel
 

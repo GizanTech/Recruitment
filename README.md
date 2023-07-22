@@ -49,4 +49,5 @@ When developing the Android application, ensure that only necessary permissions 
 Create a channel on the native side to get the API level. Read the API level on the Android side and show it on the Flutter side.
 
 
-FOR SUBMITTING TASKS, CREATE THREE DIFFERENT REPOSITORIES IN GITHUB AND USE THE BRANCH FOR DIFFERENT PLATFORMS. MAKE SURE TO USE OOP FOR CODING AND MUST FOLLOW A PATTERN (MVVM/MVC/MVP).
+FOR SUBMITTING TASKS, CREATE THREE DIFFERENT REPOSITORIES IN GITHUB AND USE SEPARATE BRANCHES FOR EACH PLATFORM. ADD THE FOLLOWING EMAIL ADDRESSES AS COLLABORATORS: "admin@gizantech.com", "nam.cse.ruet@gmail.com". MAKE SURE THAT THE CODES CAN BE RUN SMOOTHLY. 
+ 

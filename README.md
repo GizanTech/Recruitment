@@ -21,7 +21,7 @@ In this task, you'll be provided with a UI design, and your goal is to implement
 
 **UI Design:**
 
-We have prepared a UI Design for you to implement in your mobile application. You can access the prototype of the design here: https://www.figma.com/proto/ueunFhbqPnifHv6YQDyCfx/Test-2?type=design&node-id=109-73&t=XbqGvMCxoDQzb5f5-1&scaling=scale-down&page-id=14%3A10&starting-point-node-id=109%3A73&mode=design
+We have prepared a UI Design for you to implement in your mobile application. You can access the prototype of the design here: https://www.figma.com/file/fxfRDPEPvPyhYbd861T3DO/Task-for-Mobile-App-Developer-(Intern)?type=design&node-id=13-2&mode=design&t=pClamDrW0nqLuptv-0
 
 **Task Details:**
 
@@ -36,7 +36,7 @@ In this task, you need to ensure proper Bluetooth connectivity flow.
 
 **Task Details:**
 
-When developing the application, ensure that only necessary permissions for Bluetooth are requested, starting from API level 19 up to the latest API version for Android and from 11 to the latest version for iOS. Avoid requesting unnecessary permissions and only prompt for permission when it is required. The primary focus should be on maintaining the flow of Bluetooth within the app. Implement scanning, discovery, and pairing functionalities within the app and the necessary user interface. The user interface doesn’t need to have an aesthetically pleasing appearance.
+When developing the application, ensure that only necessary permissions for Bluetooth are requested, starting from API level 21 up to the latest API version for Android and from 12 to the latest version for iOS. Avoid requesting unnecessary permissions and only prompt for permission when it is required. The primary focus should be on maintaining the flow of Bluetooth within the app. Implement scanning, discovery, and pairing functionalities within the app and the necessary user interface. The user interface doesn’t need to have an aesthetically pleasing appearance. Example: https://play.google.com/store/apps/details?id=com.gizantech.blu_scanner
 
 ### Task 3.2: Package Development
 
@@ -46,8 +46,10 @@ When developing the application, ensure that only necessary permissions for Blue
 
 Develop a basic package that communicates with the native side for both Android and iOS, such as a battery level reader.
 
+### Task Submission
 
-For task submission, create separate repositories for each project on GitHub and utilize distinct branches for each platform. Add the following email addresses as collaborators: "admin@gizantech.com" and "nam.cse.ruet@gmail.com". Ensure that the code can run smoothly.
+Create separate repositories for each project on GitHub and utilize distinct branches for each platform. Make sure to add release build of each app in each repository. Add the following email addresses as collaborators: "admin@gizantech.com" and "nam.cse.ruet@gmail.com". Ensure that the code can run smoothly.
 
-In case of any queries, you can create an issue here.
+#### In case of any queries, you can create an issue here.
  
+
